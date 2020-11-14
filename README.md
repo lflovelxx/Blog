@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+## [蓦然回首，愿你仍在]()
 
-You can use the [editor on GitHub](https://github.com/2397664955/jerry_liufeng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> **博客签名：大鹏一日同风起,扶摇直上九万里。**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **博客语录：记住要仰望星空，不要低头看脚下。无论生活如何艰难，请保持一颗好奇心。你总会找到自己的路和属于你的成功。**
 
-### Markdown
+> **博客主人：We create history by our observation, rather than history creating us. **
+               
+> **博客座右铭：测试是来表明bug的存在而不是不存在。**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。** 
 
-```markdown
-Syntax highlighted code block
+### **[奇文共欣赏，疑义相与析。]**
+## 2018
+### March
+*三月金明柳絮飞，岸花堤草弄春时。*
 
-# Header 1
-## Header 2
-### Header 3
+* March 5, 2018 **»** [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 2017
+### December
+*日晏霜浓十二月，林疏石瘦第三溪。*
+* December 23, 2017 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
 
-**Bold** and _Italic_ and `Code` text
+### September
+*可怜九月初三夜，露似珍珠月似弓。*
 
-[Link](url) and ![Image](src)
-```
+* September 26, 2017 **»** [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
+* September 14, 2017 **»** [安利一下自己为 GitHub 开发的首个 Chrome 插件—GayHub😂](https://github.com/jawil/blog/issues/28)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### August
+*八月凉风天气晶，万里无云河汉明。*
+* August 20, 2017 **»** [这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
+* August 9, 2017 **»** [面试分享：一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2397664955/jerry_liufeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### June
+*六月荷花香满湖，红衣绿扇映清波。*
+* June 5, 2017 **»** [CSS像素、物理像素、逻辑像素、设备像素比、PPI、Viewport](https://github.com/jawil/blog/issues/21)
+* June 1, 2017 **»** [JavaScript正则进阶之路——活学妙用奇淫正则表达式](https://github.com/jawil/blog/issues/20)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### May
+*五月榴花妖艳烘，绿杨带雨垂垂重。*
+
+
+* May 14, 2017 **»** [探索两种优雅的表单验证——策略设计模式和ES6的Proxy代理模式](https://github.com/jawil/blog/issues/19)
+* May 10, 2017 **»** [Node.js的__dirname，__filename，process.cwd()，./的一些坑](https://github.com/jawil/blog/issues/18)
+* May 2, 2017 **»** [不用call和apply方法模拟实现ES5的bind方法](https://github.com/jawil/blog/issues/16)
+* May 1, 2017 **»** [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
+
+### April
+*四月芳林何悄悄，绿阴满地青梅小。*
+
+* April 20, 2017 **»** [从探究Function.\_\_proto\_\_===Function.prototype过程中的一些收获](https://github.com/jawil/blog/issues/13)
+* April 12, 2017 **»** [神器！解放你的双手——UI设计稿全自动切图和标注的工具推荐](https://github.com/jawil/blog/issues/11)
+* April 9, 2017 **»** [工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库](https://github.com/jawil/blog/issues/10)
+* April 5, 2017 **»** [深入浅出DOM基础——《DOM探索之基础详解篇》学习笔记](https://github.com/jawil/blog/issues/9)
+* April 1, 2017 **»** [纯CSS实现网站常用的五角星评分和分数展示交互效果](https://github.com/jawil/blog/issues/8)
+
+### March
+*风光三月连樱笋，美人踌躇白日静。*
+
+* March 16, 2017 **»** [关于Node进程管理器PM2使用技巧和需要注意的一些地方](https://github.com/jawil/blog/issues/7)
+* March 5, 2017 **»** [从++\[\[\]\][+\[]\]+\[+\[\]\]==10?深入浅出弱类型JS的隐式转换](https://github.com/jawil/blog/issues/5)
+* March 1, 2017 **»** [来自掘金的你——挖 "掘" 淘 "金" 之 前端闯关历险记学习资料汇总](https://github.com/jawil/blog/issues/4)
+
+### February 
+*不知细叶谁裁出，二月春风似剪刀。*
+
+* February 26, 2017 **»** [一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)
+* February 24, 2017 **»** [吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)
+* February 22, 2017 **»** [从 \[\]==!\[\] 为 true 来剖析 JavaScript 各种蛋疼的类型转换](https://github.com/jawil/blog/issues/1)
+
+**码梦为生，笔耕不辍。** 
