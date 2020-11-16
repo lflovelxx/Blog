@@ -16,8 +16,7 @@
 ### November
 *执子之手，与子偕老。*
 
-* November 26, 2020 **»** 
-* November 14, 2020 **»** 
+* November 16, 2020 **»** [Julia资料整理与总结（全）](https://lflovelxx.github.io/Blog/md/julia%E5%9F%BA%E7%A1%80)
 
 ### October
 *关关雎鸠，在河之洲。——窈宨淑女，君子好逑。*
